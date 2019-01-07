@@ -8,6 +8,12 @@ Not intended to replace the AKS guides on docs, simply to compliment.
 >
 > https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app
 
+
+The Illustrated Children's Guide to Kubernetes
+> https://azure.microsoft.com/en-us/resources/videos/the-illustrated-children-s-guide-to-kubernetes/
+
+
+
 Expect this lab to take about 90 minutes.
 
 ## Prequisite
