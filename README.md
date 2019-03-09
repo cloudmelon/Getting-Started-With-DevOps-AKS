@@ -1,7 +1,7 @@
-# OCP Tech Talk Graduates
+# Getting Started With DevOps AKS
 
 ## Objectives
-This session is designed for TSPs or other similar roles come from graduate program and any other want to build up their work knowledge on Microsoft Azure. 
+This repostory is designed for IT Professional who wants to build up their work knowledge on Azure DevOps and Azure Kubernetes Services (AKS). 
 
 
 
